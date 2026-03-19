@@ -28,7 +28,7 @@
 
 ![alt text](images2/image-1.png)
 
-Было создано резервное копирование схемы public и таблицы moderators из схемы public в формате t (tar-архив).
+Было создано резервное копирование схемы public и таблицы moderators из схемы public в формате c (custom).
 
 ![alt text](images2/image-6.png)
 
